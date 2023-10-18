@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monjur15
-- 👀 I’m interested in ... All About Web Developement. Love to code <3
-- 🌱 I’m currently learning ... Web Developement and Flutter App developement
-- 💞️ I’m looking to collaborate on ... Web developement
+- 👀 I’m interested in ... All About Sofetware Developement. Love to code <3
+- 🌱 I’m currently working as ... Jr Software Engineer (C#, .Net)
+- 💞️ I’m looking to collaborate on ... Software developement
 - 📫 How to reach me ... monjurmorshed.cse@gmail.com
 
 <!---
